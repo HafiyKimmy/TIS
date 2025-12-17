@@ -6,3 +6,5 @@ The morning started with a talk by Mr. Baharudin Mastari, the Senior Deputy Regi
 
 After that, we continue the talk from Ms. Noor Hazwani Ramli who is a PETRONAS executive and also the CEO and founder of GetMeHired. She talked about how companies use Applicant Tracking System (ATS) to filter resumes. Honestly, I didn’t know much about this before. I learned that your resume needs to be clear and straightforward so that the system can read it and not the fancy infographics and creative designs resume. Her tips made me rethink how I’ll write my resume when the time comes.
 
+We also had a session with senior students in their final year, which really stuck with me. They encouraged us to join competitions like hackathons, even if we feel underprepared or inexperienced. I used to think I had to master everything before trying these things. Turns out, you learn as you go. These competitions aren’t just for showing off what you know,they’re for picking up new skills, getting used to real-world challenges, and building up your confidence.
+
