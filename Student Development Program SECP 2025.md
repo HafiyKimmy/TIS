@@ -8,3 +8,4 @@ After that, we continue the talk from Ms. Noor Hazwani Ramli who is a PETRONAS e
 
 We also had a session with senior students in their final year, which really stuck with me. They encouraged us to join competitions like hackathons, even if we feel underprepared or inexperienced. I used to think I had to master everything before trying these things. Turns out, you learn as you go. These competitions aren’t just for showing off what you know,they’re for picking up new skills, getting used to real-world challenges, and building up your confidence.
 
+Looking back, I’m grateful that I joined this program. It gave me a better sense of where I should head as a Data Engineering student. Now, I feel more motivated to work on both my technical and soft skills, get involved in activities outside the classroom, and really make the most of my time at university. It’s not just about passing the exams with flying colours but it’s also about preparing for what comes next.
