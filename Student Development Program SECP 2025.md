@@ -12,3 +12,5 @@ Looking back, I’m grateful that I joined this program. It gave me a better sen
 
 ![photo_2025-12-20_23-01-49](https://github.com/user-attachments/assets/6329d2b2-4923-4fc7-b768-fb20219fcd02)
 
+![photo_2025-12-20_23-03-10](https://github.com/user-attachments/assets/f34c79fa-f9b7-4f70-a96a-4c7db2d03817)
+
