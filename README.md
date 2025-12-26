@@ -1,8 +1,10 @@
 # Technology and Information System
 
-| Lecturer | Dr Aryati Bin Bakri |
+
+| Lecturer | Dr Aryati Binti Bakri |
 | :-------- | :------------: |
 | Section  | 02                  |
+
 
 This course introduces the basics of technology and information systems and how they are used in daily life and organizations. Students learn about hardware, software, networks, data, and issues such as security and ethics. Through lectures and practical activities, students develop problem-solving and teamwork skills and learn to apply information system concepts to real-world situations.
 
