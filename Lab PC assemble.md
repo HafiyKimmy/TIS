@@ -3,7 +3,7 @@ Date : 30 October 2025
 
 ## Reflection 
 
-This class exicte me because it finally moved our learning off the page and into our hands. We’ve spent plenty of time reading about PC parts in textbooks and watching videos online, but actually taking a computer apart and rebuilding it was a completely different experience.
+This class exicte me because we finally moved our learning off the page and into our hands. We’ve spent plenty of time reading about PC parts in textbooks and watching videos online, but actually taking a computer apart and rebuilding it was a completely different experience.
 The biggest challenge? Cable management. It was a lesson in patience and precision—having to carefully match tiny connectors to the correct motherboard pins while following a manual was much harder than it looks on a screen.
 
 Key Takeaways:
