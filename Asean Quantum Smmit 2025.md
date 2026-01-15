@@ -11,6 +11,12 @@
 
 ## Reflection
 
+Attending the historic ASEAN Quantum Summit 2025 at Universiti Teknologi Malaysia provided a profound insight into the burgeoning field of quantum science and its strategic importance for regional competitiveness. 
+
+The summit effectively bridged the gap between complex theoretical concepts and real-world applications, particularly through the keynote sessions and interactive exhibitions that showcased quantum computing, optimization, and secure communication. A key takeaway was the critical need for cross-border collaboration and early investment in human capital and policy frameworks to ensure ASEAN nations remain at the forefront of the post-quantum era. 
+
+Ultimately, the event underscored that while quantum technology is still in its nascent stages, the collective efforts of academia, industry, and government are essential to transforming these scientific advancements into tangible societal and economic benefits.
+
 ## Photos
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/442054ed-4133-41e1-9b73-6d3c7d374d97" />
