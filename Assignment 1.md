@@ -5,3 +5,7 @@ My visit to UTMDigital provide a valuable transition from classroom theory to pr
 Beyond the technical scope, this experience directly aligned with our team mission of improving social skills and building genuine connections. Engaging in professional interviews and collaborating on a video production pushed us outside our comfort zones, demonstrating that successful system development relies heavily on team synergy and open communication. 
 
 Ultimately, this journey reinforced the idea that technical expertise, when paired with strong soft skills and a supportive network, is the true catalyst for professional opportunity.
+
+## Vlog
+[Click here](https://drive.google.com/file/d/1HnlEagpPOTlcdntyrMfMjGbDoXOuWfzM/view?usp=drivesdk) to watch our UTMDigital Open Day vlog.
+</div>
