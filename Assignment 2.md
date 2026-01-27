@@ -8,3 +8,5 @@ The most valuable takeaway for me was the breakdown of IT roles. It was a remind
 - Cybersecurity & ERP (protecting and connecting the business)
 
 Learning that PPG prioritizes mentorship and global internship projects makes the transition from university to the workplace feel much more attainable. This talk didn't just give me information; it gave me a roadmap for the skills I need to sharpen—like SQL and cloud architecture—to be ready for the industry. It’s one thing to study these concepts in a classroom, but seeing them drive a global business makes me much more eager to start my own career journey.
+
+![1764823891888](https://github.com/user-attachments/assets/38ce70a4-1e83-40a1-90f6-77c5c9324dcf)
