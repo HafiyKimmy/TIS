@@ -10,3 +10,5 @@ The comparison between methodologies was particularly helpful in understanding h
 ##The Human Element & AI
 The speaker also hammered home a point we often forget in tech: communication is a technical skill. Since most industrial projects are team-based, being able to explain your ideas is just as vital as writing the code itself.
 We also touched on the "elephant in the room"—AI tools like ChatGPT. The takeaway was clear: AI should be a co-pilot, not the pilot. It’s there to boost productivity, but it can’t replace the fundamental knowledge we’re building right now. In short, this talk was a great motivator to stop focusing solely on syntax and start mastering the "big picture" skills—teamwork, process planning, and clear communication—that actually define a career.
+
+![1767005758037](https://github.com/user-attachments/assets/0bd41c8a-c981-403b-bc0a-56f465da796b)
